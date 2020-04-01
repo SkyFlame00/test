@@ -1,0 +1,11 @@
+html, body {
+  width: 100%;
+}
+
+.page {
+  width: 100%;
+}
+
+.empty {
+  height: 20000px;
+}
